@@ -22,6 +22,11 @@ const studentSchema = new mongoose.Schema({
         required: true,
         trim: true
     },
+      password: {
+        type: String,
+        required: true,
+        minlength: 6
+    },
 }, { 
     timestamps: true,
     versionKey: false
