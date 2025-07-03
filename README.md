@@ -36,7 +36,7 @@ This project is part of the **Backend CRUD Application Task** and includes stude
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/DevVijex/StudentCrudApi.git
-   cd StudentCrudApi
+   cd studentcrudapi
 
 
 2. ## Install dependencies
@@ -99,6 +99,11 @@ Click Import
 
 Select the file StudentCRUDAPI.postman_collection.json
 
+OR
+
+👉 [Download Postman Collection](https://documenter.getpostman.com/view/31294338/2sB34bKNXc)
+
+
 
 --------------------------------
 
@@ -107,23 +112,4 @@ Select the file StudentCRUDAPI.postman_collection.json
 📫 Assignment submitted for Backend CRUD Project — Due: 1st July, 2025 (9pm)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/students?lastName=Smith&page=1&limit=10
-
-GET
-
-🔄 (Optional) Filter & Paginate
 
